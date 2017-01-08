@@ -1,0 +1,1 @@
+D:\VS\Git\GitTestingApp\GitTestingApp\bin\Debug\GitTestingApp.exe.config
